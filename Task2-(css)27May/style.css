@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+    padding: 0.3rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    background-color: rgb(40, 29, 29);
+    display: flex;
+    gap: 1.5rem;
+    border: 0.2px solid black;
+    padding: 0.7rem;
+    
+    margin-top: 2.2rem;;
+    border-bottom: 9px solid goldenrod;
+}
